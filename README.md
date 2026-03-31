@@ -12,20 +12,16 @@ Built with **Flutter** (Frontend) and **Node.js** (Backend), ShieldGuard perform
 
 ## Google AI Usage
 ### Tools / Models Used
-- **Gemini 1.5 Flash**: Used for intelligent threat classification and generating dynamic risk mitigation strategies.
-- **Google Fonts**: Orbitron and Exo 2 for high-fidelity security UI.
+- None
 
 ### How Google AI Was Used
-Gemini 1.5 Flash was integrated to analyze incoming threat metadata and generate human-readable "Threat Intelligence Reports." It powers the classification engine that determines the **Threat Archetype**, moving beyond simple rule-based detection to understand the *intent* and *sophistication* of the intruder based on their request patterns and geospatial origin.
+No Google AI or GenAI tools were utilized in the development or runtime operations of this project.
 
 ---
 
 ## Proof of Google AI Usage
-Attach screenshots in a `/proof` folder:
+N/A - Not applicable.
 
-![AI Proof](./proof/screenshot1.png)
-
----
 
 ## Screenshots 
 Add project screenshots:
