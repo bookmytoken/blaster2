@@ -8,6 +8,9 @@ Traditional perimeter security often fails to detect sophisticated, low-and-slow
 
 Built with **Flutter** (Frontend) and **Node.js** (Backend), ShieldGuard performs sub-second geospatial analysis and risk scoring. It identifies the attacker’s true IP, ISP, and location even through proxies, classifying them into "Threat Archetypes" (e.g., The Shadow Automater, State-Sponsored Actor) to enable immediate, automated self-healing actions.
 
+### 🧠 How the Threat Model Works
+We've prepared a plain-English, human-readable breakdown of exactly how our backend scores these threats and assigns archetypes. **[Read the How It Works Guide Here](./HOW_IT_WORKS.md)**.
+
 ---
 
 ## Google AI Usage
