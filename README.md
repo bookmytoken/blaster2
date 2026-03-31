@@ -27,16 +27,13 @@ N/A - Not applicable.
 
 
 ## Screenshots 
-Add project screenshots:
 
-![Dashboard Overview](./assets/screenshot1.png)  
-![Threat Detected](./assets/screenshot2.png)
+[![Dashboard Screenshot 1](./assets/Screenshot%202026-03-31%20162948.png)](./assets/Screenshot%202026-03-31%20162948.png)
 
----
+[![Dashboard Screenshot 2](./assets/Screenshot%202026-03-31%20163006.png)](./assets/Screenshot%202026-03-31%20163006.png)
 
-## Demo Video
-Upload your demo video to Google Drive and paste the shareable link here(max 3 minutes).
-[Watch Demo](#)
+[![Dashboard Screenshot 3](./assets/Screenshot%202026-03-31%20163020.png)](./assets/Screenshot%202026-03-31%20163020.png)
+
 
 ---
 
